@@ -1,0 +1,6 @@
+{
+  "name": "Chronos - Android Time Manager",
+  "description": "A Material Design 3 personal time management Android app featuring a daily overview front page, schedule time-blocking, focus timer, priority task tracker, and slide-out navigation drawer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
