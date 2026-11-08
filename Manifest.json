@@ -7,12 +7,12 @@
   "theme_color": "#4f46e5",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "Icône 3D de gestion du temps.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icon-512.png",
+      "src": "Icône de productivité _ temps organisé.png",
       "sizes": "512x512",
       "type": "image/png"
     }
